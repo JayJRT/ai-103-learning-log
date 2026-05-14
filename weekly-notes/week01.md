@@ -16,3 +16,5 @@ May 14-
 * Installed Foundry Extension in VS code and set my project as the default project!
 * Cleaned up resources
 
+Updating git push to reflect correct user name and email.
+
